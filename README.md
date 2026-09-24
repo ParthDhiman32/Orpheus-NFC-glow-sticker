@@ -41,9 +41,9 @@ I will use a White PCB ,golden pads and Black silkscreen from JLCPCB for making 
 | **R1, R2, R3** | 330 Ω Resistor | 0603 | 3 | $0.01 | $0.03 |
 | **D1, D2, D3** | LED (Any Color) | 0603 | 3 | $0.03 | $0.09 |
 
-**Total Component Cost:** ~$1.35 per board
-**PCB Ccost - 2.1$** 
-**Total Estimated Cost (PCB + Components): ~$3.45 per unit**
+**Total Component Cost:** ~$1.35 per board<br>
+**PCB Cost - 2.1$** <br>
+**Total Estimated Cost (PCB + Components): ~$3.45 per unit**<br>
 
 
 
