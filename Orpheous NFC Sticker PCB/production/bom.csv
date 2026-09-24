@@ -1,0 +1,8 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,0201,1,10pF,
+C2,0201,1,10uF,
+C3,0201,1,100nF,
+"D1, D2, D3",0201,3,LED,
+"R1, R2, R3",0201,3,330,
+U1,DFN-8-1EP_3x2mm_P0.5mm_EP1.36x1.46mm,1,ST25DV04K,
+U2,SOT-23-5,1,BD48ExxG,
