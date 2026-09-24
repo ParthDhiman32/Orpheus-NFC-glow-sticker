@@ -31,6 +31,9 @@ I will use a White PCB ,golden pads and Black silkscreen from JLCPCB for making 
 # Final render
 <img width="926" height="423" alt="image" src="https://github.com/user-attachments/assets/199e4363-3a08-4688-8e13-5fe010a320a3" />
 
+# PCB Specification
+<img width="1535" height="863" alt="image" src="https://github.com/user-attachments/assets/56cc4531-bb32-4f34-9728-0566ad5a1f99" />
+
 # BOM
 | Designator | Component | Package | Qty | Est. Unit Price (USD) | Total Price (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
