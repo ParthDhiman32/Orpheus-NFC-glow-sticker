@@ -28,8 +28,10 @@ All are bright enough to illuminate the Sticker fully
 This render appears green because it was rendered inside Kicad 
 I will use a Golden Silkscreen and a Engg. finish from JLCPCB for making this look even prettier 
 
-# BOM
+# Final render
+<img width="926" height="423" alt="image" src="https://github.com/user-attachments/assets/199e4363-3a08-4688-8e13-5fe010a320a3" />
 
+# BOM
 | Designator | Component | Package | Qty | Est. Unit Price (USD) | Total Price (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **U1** | ST25DV04K (NFC Harvester IC) | SO8 | 1 | $0.90 | $0.90 |
