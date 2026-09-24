@@ -26,7 +26,7 @@ All are bright enough to illuminate the Sticker fully
 <img width="518" height="286" alt="image" src="https://github.com/user-attachments/assets/fb65c6be-12f7-48ac-8645-3953365c71db" />
 
 This render appears green because it was rendered inside Kicad 
-I will use a Golden Silkscreen and a Engg. finish from JLCPCB for making this look even prettier 
+I will use a White PCB ,golden pads and Black silkscreen from JLCPCB for making this look even prettier 
 
 # Final render
 <img width="926" height="423" alt="image" src="https://github.com/user-attachments/assets/199e4363-3a08-4688-8e13-5fe010a320a3" />
