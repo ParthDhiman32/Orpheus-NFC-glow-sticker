@@ -40,8 +40,8 @@ I will use a Golden Silkscreen and a Engg. finish from JLCPCB for making this lo
 | **D1, D2, D3** | LED (Any Color) | 0603 | 3 | $0.03 | $0.09 |
 
 **Total Component Cost:** ~$1.35 per board
-
-**Total Estimated Cost (PCB + Components): ~$5.75 per unit**
+** PCB Ccost - 2/1$** 
+**Total Estimated Cost (PCB + Components): ~$3.45 per unit**
 
 
 
